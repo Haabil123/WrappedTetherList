@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    {
+      "name": "Wrapped Tether",
+      "symbol": "wusdt",
+      "address": "TJARkLB2pvmJxTBFpiM4AbKpRTYnTwFds9",
+      "chainId": 1,
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/4PHI8jr.png"
+    }
+  ]
+}
